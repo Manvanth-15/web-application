@@ -1,0 +1,62 @@
+body{
+    background: url(./images/bgm_login_signin.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: 100%;
+    background-attachment: none;
+}
+#box
+{
+    margin-left: 39%;
+    margin-top: 5%;
+    box-shadow: 50ox;
+    border-color: rgb(9, 161, 169);
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    background-image:url(./images/BGM_BGM.jpg) ;
+}
+
+#heading
+{
+    color: rgb(12, 152, 207);
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+#text
+{
+    height: 30px;
+    border-radius: 5px;
+    padding: 4px;
+    border: solid thin rgb(23, 164, 219);
+    width: 75%;
+}
+
+.text
+{
+    font-size: 20px;
+    color:rgb(12, 152, 207);
+}
+
+#button
+{
+    padding: 10px;
+    border-radius: 10px;
+    width: 110px;
+    font-size: 18px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+}
+#button:hover 
+{
+    background-color: #13d7ed;
+    color: white;
+    font: bold; 
+}
+
+.php
+{
+    font-size: large;
+    color: rgb(239, 227, 51);
+}
